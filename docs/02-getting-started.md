@@ -47,4 +47,4 @@ Each section contains:
 
 We will start by loading an SBOL document into SynBioKit.
 
-[Next: Loading an SBOL Design →](03-network-view.md)
+[Next: Network View →](03-network-view.md)
