@@ -63,7 +63,7 @@ The graph should provide a concise representation of the Top Level entities cont
 >
 > Identify the principal entities visible in the graph. Consider which information from the original SBOL document is not represented in this view.
 
-[Top-Level View](assets/images/toplevel.png)
+[Top-Level View](../assets/images/toplevel.png)
 
 ---
 
