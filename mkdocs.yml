@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: SynBioKit Tutorial
+site_description: Hands-on tutorial for SynBioKit
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Introduction: 01-introduction.md
+  - Getting Started: 02-getting-started.md
+  - Loading an SBOL Design: 03-loading-sbol.md
+  - Network View: 04-network-view.md
